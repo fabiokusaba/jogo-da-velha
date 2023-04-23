@@ -5,8 +5,8 @@ import Logo from './objects/Logo';
 function App() {
   return (
     <>
-      <Sobre />
       <Logo />
+      <Sobre />
     </>
   );
 }
